@@ -2,7 +2,7 @@
 Implemented a machine learning model to predict the likelihood of individuals receiving H1N1 and seasonal flu vaccinations by implementing data analysis and preprocessing techniques, feature engineering, Hyperparameter tuning using Optuna, and advanced classification algorithms to develop the most efficient predictive model and ranked 72 in the Driven Data out of 5500+ competitors. 
 
 - The main file of this project is **Predicting H1N1 and Seasonal Flu Uptake - EDA and ML implementation (XGBoost and CatBoost).ipynb.** This file included EDA and ML model implementations of XGBoost and CatBoost. The best scores I got from XGB and CatBoost are 86.25 and 86.22.
-- I tried to implement Sequential Feature Selection, but unfortunately, I did not get good scores. So I didn’t concentrate much on Feature Selection and Started focusing on models. Feel free to explore the SFS - XGB file for Feature Selection and Feature Engineering files to get an idea of Feature Engineering.
+- I tried to implement Sequential Feature Selection, but unfortunately, I did not get good scores. So I didn’t concentrate much on Feature Selection and Started focusing on models. Feel free to explore the SFS - XGB file for Feature Selection. 
 - XGBoost performed well in H1N1 Vaccine, and CatBoost performed well in Seasonal Flu Vaccine. So I came up with the idea to use Stacking Classifier and implemented it. The guidelines for deploying Stacking Classifier are mentioned below.
 
 This README file provides information about the Stacking Classifier model used for scoring with a score of 86.33. The model utilizes a combination of Logistic Regression as the base model and two main models, namely XGBoost and CatBoost.
