@@ -28,6 +28,6 @@ The Stacking Classifier is a powerful ensemble learning technique that combines 
 
 Feel free to modify and experiment with the model to achieve even better results. I tried one basic Feature Engineering combination, and in the beginning, it gave me good results. After increasing the trials in OPTUNA, I achieved the same results. Use the same parameters for the Stacking Classifier’s Main models.
 
-Deploy a model and test the model. After that, go back to the EDA and ML notebook and do some analysis for feature engineering.
+Train a model until it reaches the saturation point and after that, go back to the EDA notebook. Do some analysis for feature engineering and start training. 
 
 
