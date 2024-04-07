@@ -15,7 +15,7 @@ Implemented a machine learning model to predict the likelihood of individuals re
   
 - XGBoost performed well in the H1N1 Vaccine, and CatBoost performed well in the Seasonal Flu Vaccine. So I came up with the idea to use a Stacking Classifier and implemented it. The guidelines for deploying the Stacking Classifier are mentioned below.
 
-This README file provides information about the Stacking Classifier model used for scoring with a score of 86.33. The model utilizes a combination of Logistic Regression as the base model and two main models, namely XGBoost and CatBoost.
+This README file provides information about the Stacking Classifier model used for scoring with an ROC-AUC score of 86.37. The model utilizes a combination of Logistic Regression as the base model and two main models, namely XGBoost and CatBoost.
 
 The Stacking Classifier is a powerful ensemble learning technique that combines the predictions of multiple base models to make final predictions. It leverages the strengths of each base model and creates a meta-model that learns to combine their predictions effectively. **The Stacking Classifier model, using Logistic Regression as the base model and XGBoost and CatBoost as the main models, achieved a score of 86.37.**
 
