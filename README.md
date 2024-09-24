@@ -1,5 +1,5 @@
 # Predicting-H1N1-and-Seasonal-Flu-Uptake 
-<h3> -> Rank 20 | Scores : 86.43 </h3>
+<h3> -> Rank 20th out of 6500+ Competitors.. | Scores : 86.43 </h3>
 <h3> -> Driven Data Username : Karthi_DataScience</h3>
 
 <img width="1447" alt="Screenshot 2024-09-24 at 20 44 10" src="https://github.com/user-attachments/assets/fb263607-82e7-43ab-938d-6aa4203e1cb9">
