@@ -1,9 +1,10 @@
 # Predicting-H1N1-and-Seasonal-Flu-Uptake 
-<h3> -> Rank 46 -- Driven Data Username : Karthi_DataScience</h3>
+<h3> -> Rank 20 | Scores : 86.43 </h3>
+<h3> -> Driven Data Username : Karthi_DataScience</h3>
 
-<img width="1447" alt="Screenshot 2024-04-07 at 23 04 56" src="https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake/assets/126179797/567341d1-b542-4508-bbef-d3c5a5f6f381">
+<img width="1447" alt="Screenshot 2024-09-24 at 20 44 10" src="https://github.com/user-attachments/assets/fb263607-82e7-43ab-938d-6aa4203e1cb9">
 
-Implemented a machine learning model to predict the likelihood of individuals receiving H1N1 and seasonal flu vaccinations by implementing data analysis and preprocessing techniques, feature engineering, Hyperparameter tuning using Optuna, and advanced classification algorithms to develop the most efficient predictive model and **ranked 46 in the Driven Data out of 6500+ competitors**. 
+Implemented a machine learning model to predict the likelihood of individuals receiving H1N1 and seasonal flu vaccinations by implementing data analysis and preprocessing techniques, feature engineering, Hyperparameter tuning using Optuna, and advanced classification algorithms to develop the most efficient predictive model and **ranked 20th in the Driven Data out of 6500+ competitors**. 
 
 - The main file of this project is **Predicting H1N1 and Seasonal Flu Uptake - EDA and ML implementation (XGBoost and CatBoost).ipynb.** This file includes ML model implementations of XGBoost and CatBoost. The best scores I got from XGB and CatBoost are 86.25 and 86.22.
   
@@ -22,7 +23,7 @@ The Stacking Classifier is a powerful ensemble learning technique that combines 
 <h3>
 - Base Model: Logistic Regression
 - Main Models: XGBoost and CatBoost
-- Score: 86.37 
+- Score: 86.43 
 </h3>
 
 
