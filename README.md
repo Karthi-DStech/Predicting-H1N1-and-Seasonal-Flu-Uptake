@@ -1,5 +1,5 @@
 # Predicting-H1N1-and-Seasonal-Flu-Uptake 
-<h3> -> Rank 20th out of 7000+ Competitors | Scores : 86.43 </h3>
+<h3> -> Rank 20th out of 7500+ Competitors | Scores : 86.43 </h3>
 <h4> -> Driven Data Username : Karthi_DataScience</h4>
 <h4>-> Link to Leader Board: https://www.drivendata.org/competitions/66/flu-shot-learning/leaderboard/</h4>
 
